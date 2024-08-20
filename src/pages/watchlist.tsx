@@ -1,9 +1,9 @@
 import Layout from '@/modules/Layout';
-import SearchPage from '@/modules/SearchPage';
+import WatchlistPage from '@/modules/WatchlistPage';
 
 const Page = () => (
   <Layout>
-    <SearchPage />
+    <WatchlistPage />
   </Layout>
 );
 
